@@ -1,4 +1,5 @@
 #!/Users/vidyadharbendre/miniforge3/envs/nndl_env/bin/python
+
 import requests
 from config import settings
 
