@@ -1,4 +1,4 @@
-Vol,Rev,Exp,Sector,EmpCnt,HQ,MNC,StockID,GST,Start Date
+,Vol,Rev,Exp,Sector,EmpCnt,HQ,MNC,StockID,GST,Start Date
 TCS_Solutions,980,950.3,700,Pub,500000,Mum,1,TCS,18,Apr 2004
 Infosys_Tech,970,930.8,690,Pvt,346000,Blr,1,INFY,12,Jul 1999
 Wipro_Services,960,890.5,680,Pub,250000,Blr,1,WIPR,5,Dec 2002
